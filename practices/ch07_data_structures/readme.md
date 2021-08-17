@@ -55,7 +55,8 @@ p1_score = scores.get('player1', 0)
 
 Now it's your turn. Try this practice below.
 
-The core idea in this chapter was about dictionaries and data structures in general. Create a simple program that creates a dictionary called `d` such that the following runs without error and prints what is expected:
+The core idea in this chapter was about dictionaries and data structures in general. Create a simple program that 
+creates a dictionary called `d` such that the following runs without error and prints what is expected:
 
 ```python
 # d = create d using core concepts above.
